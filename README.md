@@ -1,0 +1,1 @@
+This Docker image for Odoo 12.0.
